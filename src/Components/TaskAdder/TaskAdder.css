@@ -1,0 +1,61 @@
+
+.taskadder-container {
+  padding: 20px 0;
+  width: 100%;
+  position: fixed;
+  text-align: center;
+}
+
+.todo-styling {
+  color: rgb(241, 142, 124);
+  font-size: 50px;
+}
+.input-container {
+  justify-content: center;
+}
+.add-task-input {
+  padding: 10px 20px;
+  width: 30%;
+  border-radius: 50px;
+  border: none;
+  color: rgb(83, 65, 241);
+  background-color: rgb(188, 241, 65);
+  outline: none;
+}
+.submit {
+  margin-left: 4px;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  background-color: #8d0eb4;
+  border: none;
+  color: rgb(9, 209, 69);
+  font-size: 20px;
+  outline: none;
+  cursor: pointer;
+}
+.filter {
+  padding: 10px 10px;
+  width: 120px;
+  border-radius: 50px;
+  border: none;
+  color:#118ab2;
+  background-color: rgb(188, 241, 65);
+  outline: none;
+  margin-left: 2%;
+  cursor: pointer;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+.rainbow-text {
+  background-image: linear-gradient(to left, rgb(177, 130, 238), rgb(103, 102, 182), rgb(199, 95, 231), rgb(235, 115, 205), rgb(224, 89, 168), rgb(237, 240, 101), rgb(236, 221, 11));   -webkit-background-clip: text;
+  color: transparent;
+}
+.im{
+  position: relative;
+  display: inline-block;
+  width: 65px;
+  top: 10px;
+}

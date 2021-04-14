@@ -1,0 +1,31 @@
+.todo-block {
+    border-radius: 20px;
+    margin: 5px;
+    width: 50%;
+    padding: 5px 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    background-color: rgba(194, 98, 194, 0.39);
+  }
+  .todo-block:nth-child(2n){
+    background-color: rgba(0, 217, 255, 0.39);
+  }
+  .trash-btn ,.complete-btn{
+    width: 40px;
+    cursor: pointer;
+    border: none;
+    border-radius: 50%;
+  }
+  .complete-btn{
+    background-color: rgb(123, 97, 150);
+    
+  }
+  .trash-btn{
+    background-color: rgb(23, 145, 150);
+  }
+  button{
+    border-radius: 50%;
+    padding-bottom: -20px;
+  }

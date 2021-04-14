@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+    font-family: 'Akaya Telivigala', cursive;
+}
+body {
+  background-image: url('https://images.squarespace-cdn.com/content/v1/54bdcba5e4b08f92b173441f/1480272995609-NXJZJXLEI65ABTR92CMP/ke17ZwdGBToddI8pDm48kIIWdAnyBSrZ5E6Gv7JXlDh7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0nqf2HYKlysnoifqMU5NjJx7yqCGE_I8MD34_rHhpOCXJXL4amoIyEjBbTEx2gJ8RA/polygons');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+
+  font-size: 15px;
+  font-family: "Hind", sans-serif;
+}
+
+
+
+
+

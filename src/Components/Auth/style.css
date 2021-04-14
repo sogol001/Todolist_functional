@@ -1,0 +1,41 @@
+*{
+    text-align: center;
+    vertical-align: middle;
+}
+h1{
+    cursor: pointer;
+    display: inline;
+    margin: 5px;
+}
+input{
+    display: block;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 30px;
+    border-radius: 10px;
+    margin-top: 10px;
+    background-color: rgba(154, 135, 222, 0.623);
+    border:1px solid purple;
+}
+.box{
+    margin-top: 50px;
+    display: block;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(154, 135, 222, 0.623);
+    padding: 30px;
+    border-radius: 20px;
+}
+.login-btn ,.submit-btn{
+    width: 50%;
+    height: 30px;
+    border-radius: 5px;
+    margin: 10px;
+    background-color: chartreuse;
+}
+.active{
+    color: rgb(43, 255, 0);
+}

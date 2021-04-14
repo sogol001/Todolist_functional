@@ -1,0 +1,21 @@
+.menu{
+    display: flex;
+    list-style: none;
+    background-color: rgb(175, 127, 238);
+    padding: 10px;
+    border-bottom: 2px solid rgb(0, 204, 255);
+}
+.item{
+    color: rgb(202, 70, 191);
+    font-size: 25px;
+    text-decoration: none;
+    padding: 10px;
+} 
+.item:hover{
+ background-color: rgb(202, 70, 191);
+ color: rgb(175, 127, 238);
+}
+.wellcome{
+    margin-left: auto;
+    color: yellow;
+}
